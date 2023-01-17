@@ -65,6 +65,12 @@ nav {
 }
 .nameleft {
   color: #5271ff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nameleft img {
+  width: 700px;
 }
 .nameright {
   display: flex;
