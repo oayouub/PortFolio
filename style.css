@@ -205,13 +205,13 @@ nav {
   position: absolute;
   top: 0;
   left: 0;
-  width: 300px;
+  width: 20%;
 }
 .forme2 {
   position: absolute;
   bottom: 0;
   right: 0;
-  width: 300px;
+  width: 20%;
 }
 .sectionProjet {
   background-color: #f4f6ff;
