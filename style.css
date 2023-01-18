@@ -200,6 +200,7 @@ nav {
   overflow: hidden;
   white-space: nowrap;
 }
+/* PROJETS */
 .forme1 {
   position: absolute;
   top: 0;
@@ -212,7 +213,6 @@ nav {
   right: 0;
   width: 300px;
 }
-/* PROJETS */
 .sectionProjet {
   background-color: #f4f6ff;
   display: flex;
@@ -415,13 +415,6 @@ footer {
 .topbtn img {
   width: 30px;
 }
-/* texte appear */
-/* #txtApear {
-  opacity: 0;
-  transform:m
-
-  transition: 0.5s;
-} */
 
 /* responsive------------------------------------------------------------------------------------------------------------------ */
 /* iphone12pro */
@@ -429,15 +422,14 @@ footer {
   .filtre ul {
     flex-wrap: wrap;
   }
-  nav {
-    display: none;
-  }
+
   .sectionName {
     display: flex;
     flex-direction: column;
     padding: 10px;
     padding-top: 30px;
     height: auto;
+    padding-bottom: 20px;
   }
   .sectionDomaine ul {
     flex-direction: column;
@@ -456,7 +448,23 @@ footer {
   .active {
     width: 80%;
   }
-  .nameleft {
+
+  .nameright h2 {
+    font-size: 2rem;
+  }
+
+  .nameright p {
+    font-size: 1rem;
+  }
+
+  .divbtn {
+    justify-content: center;
+  }
+  .forme1,
+  .forme2,
+  .topbtn,
+  .nameleft,
+  nav {
     display: none;
   }
 }
