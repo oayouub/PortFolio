@@ -312,7 +312,7 @@ nav {
   filter: blur(4px);
 }
 
-#galerie ul li img {
+#galerie ul li .prjimg {
   display: block;
   height: 100%;
 }
