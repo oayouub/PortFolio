@@ -200,6 +200,47 @@ nav {
   overflow: hidden;
   white-space: nowrap;
 }
+
+.lvl {
+  background-color: #5271ff;
+  border: 2px solid #f4f6ff;
+  width: 100%;
+  height: 10px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.lvlback {
+  background-color: #ffbd59;
+  width: 30%;
+  height: 10px;
+  border-radius: 10px;
+}
+.lvlfront {
+  background-color: #ffbd59;
+  width: 80%;
+  height: 10px;
+  border-radius: 10px;
+}
+.lvlgst {
+  background-color: #ffbd59;
+  width: 90%;
+  height: 10px;
+  border-radius: 10px;
+}
+.lvljs {
+  background-color: #ffbd59;
+  width: 50%;
+  height: 10px;
+  border-radius: 10px;
+}
+.lvlux {
+  background-color: #ffbd59;
+  width: 60%;
+  height: 10px;
+  border-radius: 10px;
+}
 /* PROJETS */
 .forme1 {
   position: absolute;
