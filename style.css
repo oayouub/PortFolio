@@ -214,19 +214,19 @@ nav {
 }
 .lvlback {
   background-color: #ffbd59;
-  width: 30%;
+  width: 50%;
   height: 10px;
   border-radius: 10px;
 }
 .lvlfront {
   background-color: #ffbd59;
-  width: 80%;
+  width: 85%;
   height: 10px;
   border-radius: 10px;
 }
 .lvlgst {
   background-color: #ffbd59;
-  width: 90%;
+  width: 60%;
   height: 10px;
   border-radius: 10px;
 }
