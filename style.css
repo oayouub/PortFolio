@@ -7,6 +7,18 @@
 }
 /* navbar */
 
+.alternance {
+  background-color: #ffbd59;
+  margin-top: 60px;
+}
+.halternance {
+  text-align: center;
+  font-size: 1.3rem;
+  text-transform: uppercase;
+  padding: 10px 0;
+  color: #5271ff;
+}
+
 nav {
   width: 100%;
   height: 60px;
